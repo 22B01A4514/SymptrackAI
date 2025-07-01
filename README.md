@@ -33,19 +33,19 @@ python app.py
 ### Features
 Here’s what SymptrackAI offers:
 
-** Secure Authentication **
+**Secure Authentication**
 Register and log in using JWT-based token security.
 
-** Symptom-Based Disease Prediction**
+**Symptom-Based Disease Prediction**
 Users can input symptoms to receive AI-powered health insights.
 
-** Patient Health Vlogs**
+**Patient Health Vlogs**
 Log daily symptoms, reports, and personal observations over time.
 
-** Community Health Alerts**
+**Community Health Alerts**
 Receive real-time updates about local disease trends or risks.
 
-** Personalized Dashboard**
+**Personalized Dashboard**
 Access an intuitive dashboard showing health status, prediction results, and activity logs.
 
 ** Profile Management**
