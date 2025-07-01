@@ -21,6 +21,7 @@ Healytics is an intelligent web platform that predicts diseases based on symptom
 git clone https://github.com/22B01A4514/SymptrackAI.git
 cd SymptrackAI
 
+```
 ### 2. Backend Setup
 cd backend
 python -m venv venv
