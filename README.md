@@ -32,9 +32,9 @@ pip install -r requirements.txt
 python app.py
 
 ```
+---
 ### Features
 
-```bash 
 Here’s what SymptrackAI offers:
 
 1. **Secure Authentication**
@@ -57,3 +57,4 @@ Allow doctors/authorities to monitor or manage reports (if enabled).
 
 7. **Community Health Alerts**
 Receive real-time updates about local disease trends or risks.
+
