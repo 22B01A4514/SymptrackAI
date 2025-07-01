@@ -42,9 +42,6 @@ Users can input symptoms to receive AI-powered health insights.
 3. **Patient Health Vlogs**
 Log daily symptoms, reports, and personal observations over time.
 
-**Community Health Alerts**
-Receive real-time updates about local disease trends or risks.
-
 4. **Personalized Dashboard**
 Access an intuitive dashboard showing health status, prediction results, and activity logs.
 
@@ -53,3 +50,6 @@ Update personal details, view history, and manage user sessions.
 
 6. **Role-Based Access (Optional)**
 Allow doctors/authorities to monitor or manage reports (if enabled).
+
+7. **Community Health Alerts**
+Receive real-time updates about local disease trends or risks.
