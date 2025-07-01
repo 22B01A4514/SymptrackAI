@@ -23,6 +23,8 @@ cd SymptrackAI
 
 ```
 ### 2. Backend Setup
+
+```bash
 cd backend
 python -m venv venv
 venv\Scripts\activate  # On Windows
