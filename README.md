@@ -31,8 +31,10 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 python app.py
 
-
+```
 ### Features
+
+```bash 
 Here’s what SymptrackAI offers:
 
 1. **Secure Authentication**
