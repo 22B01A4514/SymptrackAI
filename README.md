@@ -1,6 +1,6 @@
-# Healytics 
+# SymptrackAI 
 
-Healytics is an intelligent web platform that predicts diseases based on symptoms and enables users to track, log, and manage their health efficiently.
+SymptrackAI is an intelligent web platform that predicts diseases based on symptoms and enables users to track, log, and manage their health efficiently.
 
 ---
 
